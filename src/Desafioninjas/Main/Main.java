@@ -1,8 +1,8 @@
-package Desafioninjas.teste;
+package Desafioninjas.Main;
 
 import Desafioninjas.dominio.Ninja;
 
-public class Teste1 {
+public class Main {
     public static void main(String[] args) {
         Ninja naruto = new Ninja();
         Ninja konohamaru = new Ninja();
